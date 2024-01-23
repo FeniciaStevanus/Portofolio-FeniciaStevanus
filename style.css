@@ -6,3 +6,11 @@
 .portofolio {
   background-color: #ffcce6;
 }
+
+.card {
+  transition : all 0.3s;
+}
+
+.card:hover {
+  transform: scale(1.1);
+}
